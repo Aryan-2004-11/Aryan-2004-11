@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing BTech in Computer Science with specialization in Artificial Intelligence and Machine Learning at Sharda University<br>👯 I’m currently working as a full stack developer in SAARP LABS<br>🌱 I’m interested in learning new things and gain experience to enhance my skills<br>
+🔭 I’m currently pursuing BTech in Computer Science with specialization in Artificial Intelligence and Machine Learning at Sharda University<br>👯 I’m currently working as a full stack developer in DRIVE ON<br>🌱 I’m interested in learning new things and gain experience to enhance my skills<br>
 
 
 ## 🌐 Socials:
